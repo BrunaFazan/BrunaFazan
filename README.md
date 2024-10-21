@@ -1,8 +1,8 @@
-### Oie! 😃	 Meu nome é Bruna Fazan Trindade, mas todo mundo me chama de Bruninha, e estou cursando Sistemas da informação :) 
+### Oie! 😃	 Meu nome é Bruna Fazan Trindade, mas todo mundo me chama de Bruninha, e estou cursando Ciências da Computação :) 
 
 ##
 
-Com um pai pioneiro na área da computação a maçã definitivamente não caiu longe da árvore! Tenho 20 anos e  começei a me interessar pelo campo vendo tudo que era possível alcançar, as vidas que podemos facilitar e ajudar através de uma tela, um teclado e paciência. Estou cursando Sistemas da Informação no Instituto Mauá de Tecnologia 😎 e usando sempre a Udemy como complemento!💜	 
+Tenho 20 anos e  começei a me interessar pelo campo vendo tudo que era possível alcançar, as vidas que podemos facilitar e ajudar através de uma tela, um teclado e paciência. Estou cursando Sistemas da Informação no Instituto Mauá de Tecnologia 😎 e usando sempre a Udemy como complemento!💜	 
 
 - 👩‍🎓 Estudando Phyton, JavaScript, CSS e HTML no momento.
 - 🔧	 Graduanda no Instituto Mauá de Tecnologia.
