@@ -10,7 +10,6 @@ Tenho 20 anos e  começei a me interessar pelo campo vendo tudo que era possíve
 - 🏆 Ferramentas: VSCode e GitHub.
 - 🦊 Idiomas: Português e Inglês.
 - 🌞	Me considero uma pessoa muito eclética em todos os gostos, e adoro fazer novas amizades!
-- ⚓	Fun fact: adoro pescar :)
 ##
 
 <div>
